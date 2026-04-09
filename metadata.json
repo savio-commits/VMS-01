@@ -1,0 +1,5 @@
+{
+  "name": "Vendor Management System",
+  "description": "A high-fidelity, full-stack Vendor Management System (VMS) with a 3-tier sequential approval process and vendor comparison matrix.",
+  "requestFramePermissions": []
+}
